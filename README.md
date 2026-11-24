@@ -1,6 +1,6 @@
 # FarWork RO
 
-Română: [README.ro.md](README.ro.md) · Demo video: se adaugă la publicare
+Română: [README.ro.md](README.ro.md) · Demo video below
 
 
 A free mobile app for international workers in Romania (Nepal, India, Philippines, Sri Lanka, Bangladesh, Vietnam, Pakistan, Turkey, Arab countries, Thailand) and for their employers.
@@ -24,20 +24,11 @@ Workers coming to Romania who want to know their rights, pay and legal steps in 
 
 ## Tech
 
-Expo SDK 58, React Native, TypeScript, Supabase (auth, Postgres with RLS on all tables, storage).
-
-## Run locally
-
-```bash
-npm install
-npx expo start
-```
-
-Static web build: `npx expo export -p web`.
+Expo SDK 58, React Native, TypeScript, Supabase.
 
 ## Privacy
 
-Personal data is never public. Community posts can be anonymous. See the privacy policy in `web-legal/`.
+Personal data is never public. Community posts can be anonymous.
 
 ## Contact
 

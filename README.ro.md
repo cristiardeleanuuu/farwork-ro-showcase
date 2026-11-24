@@ -24,20 +24,11 @@ Muncitori care vin în România și vor să-și știe drepturile, salariul și p
 
 ## Tehnologie
 
-Expo SDK 58, React Native, TypeScript, Supabase (autentificare, bază de date cu RLS pe toate tabelele, stocare).
-
-## Rulare locală
-
-```bash
-npm install
-npx expo start
-```
-
-Build web static: `npx expo export -p web`.
+Expo SDK 58, React Native, TypeScript, Supabase.
 
 ## Confidențialitate
 
-Datele personale nu sunt publice. Postările din comunitate pot fi anonime. Detalii în politica de confidențialitate din `web-legal/`.
+Datele personale nu sunt publice. Postările din comunitate pot fi anonime.
 
 ## Contact
 
