@@ -1,6 +1,8 @@
 # FarWork RO
 
-English: [README.md](README.md)
+English: [README.md](README.md) · Demo video mai jos
+
+https://github.com/user-attachments/assets/ef1d09f0-8965-48fd-b19c-c39f16ba381a
 
 
 Aplicație mobilă gratuită pentru muncitorii internaționali din România (Nepal, India, Filipine, Sri Lanka, Bangladesh, Vietnam, Pakistan, Turcia, țările arabe, Thailanda) și pentru angajatorii lor.
