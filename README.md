@@ -2,6 +2,8 @@
 
 Română: [README.ro.md](README.ro.md) · Demo video below
 
+https://github.com/user-attachments/assets/ef1d09f0-8965-48fd-b19c-c39f16ba381a
+
 
 A free mobile app for international workers in Romania (Nepal, India, Philippines, Sri Lanka, Bangladesh, Vietnam, Pakistan, Turkey, Arab countries, Thailand) and for their employers.
 
